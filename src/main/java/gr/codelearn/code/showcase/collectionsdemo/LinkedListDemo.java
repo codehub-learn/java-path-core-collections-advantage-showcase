@@ -1,11 +1,11 @@
-package gr.codelearn.code.showcase.testcollections;
+package gr.codelearn.code.showcase.collectionsdemo;
 
 import java.util.*;
 
 public class LinkedListDemo {
     public static void main(String[] args) {
-        //createLists();
-        otherListMethods();
+        createLists();
+        //otherListMethods();
         //conventionListActions();
     }
 

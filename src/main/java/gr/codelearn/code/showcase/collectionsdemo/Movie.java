@@ -1,4 +1,4 @@
-package gr.codelearn.code.showcase.testcollections;
+package gr.codelearn.code.showcase.collectionsdemo;
 
 public class Movie {
     private String id;

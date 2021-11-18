@@ -1,10 +1,10 @@
-package gr.codelearn.code.showcase.testcollections;
+package gr.codelearn.code.showcase.collectionsdemo;
 
 import java.util.*;
 
 public class SetDemo {
     public static void main(String[] args) {
-        //demonstrateHashSet();
+        demonstrateHashSet();
         //demonstrateSetOperations();
     }
     public static void demonstrateHashSet(){

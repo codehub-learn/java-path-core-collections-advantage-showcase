@@ -1,4 +1,4 @@
-package gr.codelearn.code.showcase.testcollections;
+package gr.codelearn.code.showcase.collectionsdemo;
 
 import java.util.*;
 
